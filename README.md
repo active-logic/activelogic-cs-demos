@@ -2,6 +2,8 @@
 
 A Unity project planned to contain Active Logic demos; currently only the "Duelist" demo is provided.
 
+*This demo requires the Active Logic asset. The demo is not compatible with the free/GPL version of Active Logic. The asset is currently pending review, and will be available soon.*
+
 # Requirements
 
 The demo requires the following free assets:
