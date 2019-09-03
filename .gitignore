@@ -8,6 +8,7 @@ obj
 *.sln.DotSettings.user
 *.userprefs
 Assets/csc.rsp
+Assets/ActiveLogic
 
 Tests-*.xml
 Assets/Demos/Duelist/Packages

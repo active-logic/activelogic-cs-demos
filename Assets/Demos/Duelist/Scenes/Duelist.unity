@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8a614d5308d4e76b93d53218b17405, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  root: {fileID: 0}
+  root: {fileID: 502178730}
   loop: 1
   enableLogging: 1
   useHistory: 0
@@ -234,6 +234,7 @@ MonoBehaviour:
   timeScale: 1
   step: 0
   breaks: []
+  log: 
 --- !u!114 &502178730
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -362,7 +363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8a614d5308d4e76b93d53218b17405, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  root: {fileID: 0}
+  root: {fileID: 640303094}
   loop: 1
   enableLogging: 1
   useHistory: 0
@@ -374,6 +375,7 @@ MonoBehaviour:
   step: 0
   breaks:
   - Duelist.Damage
+  log: 
 --- !u!114 &640303094
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -523,7 +525,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df8a614d5308d4e76b93d53218b17405, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  root: {fileID: 0}
+  root: {fileID: 699205168}
   loop: 1
   enableLogging: 1
   useHistory: 0
@@ -534,6 +536,7 @@ MonoBehaviour:
   timeScale: 1
   step: 0
   breaks: []
+  log: 
 --- !u!114 &699205168
 MonoBehaviour:
   m_ObjectHideFlags: 0
