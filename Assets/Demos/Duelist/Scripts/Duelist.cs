@@ -3,7 +3,6 @@ using Active.Core;
 using static Active.Core.status;
 using Auto = System.Runtime.CompilerServices.CallerMemberNameAttribute;
 
-// TODO - On approach log-trace is incorrect, with repeated elements.
 public class Duelist : UTask{
 
 #if !AL_BEST_PERF
